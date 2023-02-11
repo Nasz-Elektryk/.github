@@ -1,12 +1,5 @@
-## Hello there 👋
+# 🤖 Hello there 🤖
+We are a small team of 5 people.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ☭ WE NEED YOUR HELP ☭
+We hope you also want to create powerful and innovative application for schools and universities (mainly polish, but you help us with other countries). Our BaseBook is currently in early stage of production (**it's hard to say it's alpha stage**), but you can help! **DO NOT REMEMBER THIS PROJECT AS USELESS ONE!**
